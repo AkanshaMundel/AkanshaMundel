@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Mundel</h1>
 <h3 align="center">A passionate frontend developer and competitive Programmer who loves to code and want to contributein tech field in order to bring an impact in building something new .</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media")
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/78690652/233634626-670a46bd-7008-4264-b8d9-69a2ddd2a399.png)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanshamundel" alt="akanshamundel" /></a> </p>
 
@@ -16,12 +16,13 @@
 
 - 📫 How to reach me **mundel30003@gmail.com**
 
-- 📄 Resume Link [https://drive.google.com/file/d/1KtuS7zIl9MSzbY9DVvHl6NLxLu9dkUPO/view?usp=sharing](https://drive.google.com/file/d/1KtuS7zIl9MSzbY9DVvHl6NLxLu9dkUPO/view?usp=sharing)
+- 📄 Resume Link [click here](https://drive.google.com/file/d/1KtuS7zIl9MSzbY9DVvHl6NLxLu9dkUPO/view?usp=sharing)
 
 - ⚡ Fun fact **I like to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <a href="https://twitter.com/mundel_akansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mundel_akansha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/akansha_mundel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/akansha_mundel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/akansha_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akansha_01/" height="30" width="40" /></a>
