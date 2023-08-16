@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN and android  based project**
 
-- 💬 Ask me about **react native **
+- 💬 Ask me about **react native**
 
 - 📫 How to reach me **mundel30003@gmail.com**
 
