@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Akansha Mundel</h1>
-<h3 align="center">A passionate frontend developer and competitive Programmer who loves to code and want to contributein tech field in order to bring an impact in building something new .</h3>
+<h3 align="center">A passionate software developer and competitive Programmer who loves to code and want to contributein tech field in order to bring an impact in building something new .</h3>
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanshamundel" alt="akanshamundel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mundel_akansha" target="blank"><img src="https://img.shields.io/twitter/follow/mundel_akansha?logo=twitter&style=for-the-badge" alt="mundel_akansha" /></a> </p>
 
-- 🔭 I’m currently working on [The Yum Express , a react based food ordering app](https://github.com/AkanshaMundel/OrderingApp/tree/main)
+- 🔭 I’m currently working as React Native Developer
 
-- 🌱 I’m currently learning **React Native and NextJs**
+- 🌱 Also,currently learning **Express js and MongoDB**
 
-- 👯 I’m looking to collaborate on **MERN based project**
+- 👯 I’m looking to collaborate on **MERN and android  based project**
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **react native **
 
 - 📫 How to reach me **mundel30003@gmail.com**
 
